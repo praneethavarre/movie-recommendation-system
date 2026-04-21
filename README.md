@@ -33,4 +33,5 @@ Output:
 - Batman Begins
 - Thor
 
-![Output](recommendations output.png)
+![Output](output.png)
+
