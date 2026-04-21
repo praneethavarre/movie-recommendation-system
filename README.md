@@ -32,3 +32,5 @@ Output:
 - Man of Steel
 - Batman Begins
 - Thor
+
+![Output](recommendations output.png)
