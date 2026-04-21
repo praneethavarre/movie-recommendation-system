@@ -25,3 +25,10 @@ recommend("Batman")
 ## Limitations
 - No user-based recommendations
 - Works only on content similarity
+  
+## 🔍 Example
+recommend("Batman")
+Output:
+- Man of Steel
+- Batman Begins
+- Thor
